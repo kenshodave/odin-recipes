@@ -1,0 +1,7 @@
+* {background-color: thistle;}
+h1 {background-color: darkcyan;}
+p {color:aqua;}
+p,em {background-color: dodgerblue;}
+h1 {color:white;}
+
+.important {color:firebrick}
